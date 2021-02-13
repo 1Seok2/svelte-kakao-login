@@ -5,10 +5,10 @@
   /**
    * kakao login button style
    * require form
-   *   style="
+   *   style=`
    *      background-color : green;
    *      font-size : 12px;
-   *   "
+   *   `
    */
   export let style = null;
 

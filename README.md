@@ -20,3 +20,7 @@
 ```jsx
 <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
 ```
+
+## 가이드
+
+[kakao login](https://github.com/1Seok2/svelte-kakao-login/tree/master/src/kakao/login)
