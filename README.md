@@ -26,5 +26,3 @@
 [kakao login](https://github.com/1Seok2/svelte-kakao-login/tree/master/src/kakao/login)
 
 <br/>
-
-# PR 언제든 환영
